@@ -6,4 +6,3 @@ all: main.py
 	$(PYTHON) main.py
 
 run: all
-	./prog
